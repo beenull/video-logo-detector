@@ -20,4 +20,3 @@ RESULT: FAILED
 
 Notes:
 1. Any commercial rarely include the logo. Only at the end of it.
-2. 
