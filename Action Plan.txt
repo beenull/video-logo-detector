@@ -1,0 +1,23 @@
+Experiment with SIFT:
+- Download a video ad and a couple of images of the logos inside.
+- Try to capture the video in openCV
+- Try to capture a frame
+- Try SIFT on the logo
+- Try on a training snapshot of the video that contains that logo
+- Try to find a match, how to get the bounding box and etc.
+
+Experiment with color spaces:
+- Convert the logo to HSV
+- Get the histogram of each channel
+- Get the highest values of each channel
+- Return a margin of values around these values
+- Convert the frame to HSV
+- Filter out the frame to be within the returned margins
+- Display the video
+RESULT: FAILED
+
+
+
+Notes:
+1. Any commercial rarely include the logo. Only at the end of it.
+2. 
